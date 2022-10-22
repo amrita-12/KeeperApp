@@ -1,3 +1,0 @@
-# KeeperApp
-# NotesKeepingApp
-# KeeperApp
